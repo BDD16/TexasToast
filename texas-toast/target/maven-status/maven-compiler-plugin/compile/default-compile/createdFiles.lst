@@ -1,0 +1,16 @@
+com/bdg/double07/reversecshell/instrumentation/inlineassembly/NativeAssembly.class
+com/sun/jna/examples/HelloWorld$CLibrary.class
+com/bdg/double07/reversecshell/trampoline_thievery.class
+com/bdg/double07/reversecshell/App.class
+com/utece/student/llpdetection/instrumentation/inlineassembly/NativeAssemblyRegister64Wrapper.class
+com/bdg/double07/reversecshell/instrumentation/examples/trampoline_thievery.class
+com/bdg/double07/reversecshell/App$1.class
+com/utece/student/llpdetection/instrumentation/inlineassembly/NativeAssemblyRegisterWrapper.class
+com/sun/jna/examples/HelloWorld.class
+com/bdg/double07/reversecshell/instrumentation/structures/stack_t.class
+com/bdg/double07/reversecshell/instrumentation/structures/sigset_t.class
+com/bdg/double07/reversecshell/instrumentation/Sysinfo.class
+NativeAssembly_64.class
+com/bdg/double07/reversecshell/instrumentation/reverseshell/NativeReverseShellWrapper.class
+com/utece/student/llpdetection/instrumentation/structures/context_t.class
+com/bdg/double07/reversecshell/instrumentation/reverseshell/NativeReverseShell.class
